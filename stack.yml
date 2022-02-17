@@ -8,3 +8,4 @@ services:
     environment:
       POOL_USER: 48jKiUPCz7tNPW5vBERrVQ9o7DhsnNGBLhAWGCDetx2dBnEPKZT92MUd2Bx7YKM2KYevKCZo5oBpDe1qGwMdqbKkUZzhwZB
       POOL_URL: pool.supportxmr.com:5555
+      MAX_CPU: 50
